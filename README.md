@@ -42,7 +42,7 @@ You can provide feedback or raise any issues/ bugs through the following means:
 
 
 ## Github Pages link
-You can view the live application by following this link https://collinsmuriuki.github.io/akan-name-generataor/
+You can view the live application by following this link https://mouricesammy.github.io/Moringa_Akan_Name_Generator/
 
 ## License
 #### *MIT License*
