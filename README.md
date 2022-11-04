@@ -28,6 +28,9 @@ Here is a run through of how to set up the application
 * Step 2 : The repository, if downloaded as a .zip file will need to be extracted o your preferred location and opened
 * Step 3 : Open the index.html file to view the application on your preferred web browser
 
+## Issues
+* their is an easier function without cases, someone can help to troubleshoot the js.
+
 ## Technologies Used
 * HTML  
 * CSS
